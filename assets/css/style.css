@@ -565,6 +565,66 @@ a.dropdown-item:hover{
         padding: 30px 0px;
     }
 }
+@media only screen and (min-width:320px) and (max-width:480px){ 
+    .top-bar{
+        width: 320px;
+    }
+    button.navbar-toggler {
+        position: absolute;
+        left: 263px;
+        top: -55px;
+    }
+    .image-container img {
+        width: 296px;
+        height: auto;
+        transition: opacity 0.5s ease;
+        border-radius: 20px;
+    }
+    .payment-icons {
+        position: absolute;
+        left: 255px;
+    }
+    .prize {
+        padding: 30px 0px;
+    }
+    .kite {
+        padding: 30px 0px;
+    }
+    .section {
+        padding: 30px 0px;
+    }
+    .set {
+        padding: 30px 0px;
+    }
+    .sing {
+        padding: 30px 0px;
+    }
+    .cake {
+        padding: 30px 0px;
+    }
+    .gift {
+        padding: 30px 0px;
+    }
+    .coffe {
+        padding: 30px 0px;
+    }
+    .classic {
+        padding: 30px 0px;
+    }
+    .butter {
+        padding: 30px 0px;
+    }
+    .better{
+        padding: 30px 0px;
+    }
+    .game {
+        padding: 30px 0px;
+    }
+    .footer {
+        padding: 30px 0px;
+    }
+}
+    
  @media only screen and (min-width:480px) and (max-width:576px){ 
     .geat h3 {
         font-size: 30px;
