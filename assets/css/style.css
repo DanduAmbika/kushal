@@ -1,0 +1,832 @@
+a.nav-link {
+    color: black;
+    text-decoration: none !important;
+    display: flex;
+
+}
+.icon-links.d-flex.align-items-center i {
+    padding: 3px;
+    font-size: 22px;
+}
+a.nav-link {
+    text-decoration: none;
+}
+img {
+    width: 20%;
+}
+.kite {
+
+    padding: 60px 0px;
+}
+.mani img { 
+    width: 100%;
+    padding: 5px;
+    border-radius: 30px;
+}
+.section {   
+    padding: 60px 0px;
+}
+.para img {
+    width: 100%;
+}
+.set {
+    padding: 60px 0px;
+}
+.fit img {
+    width: 100%;
+}
+.sing {
+    padding: 60px 0px;
+}
+
+ .image-container img {
+    width: 250px;
+    height: auto;
+    transition: opacity 0.5s ease; 
+    border-radius: 20px;
+}
+
+.image-container img:first-child {
+    position: absolute;
+}
+
+.image-container:hover img:first-child {
+    opacity: 0;
+}
+.tea img {
+    width: 100%;
+}
+.drink img {
+    width: 100%;
+}
+.drink img {
+    width: 100%;
+}
+.milk img {
+    width: 100%;
+}
+.gallery img { 
+    width: 100%;
+    height: 186px;
+}
+.gallery p {
+    text-align: justify;
+    font-size: 16px;
+}
+p#read {
+    text-decoration: underline;
+    font-weight: 400;
+}
+.carousel-indicators { 
+    display: none;
+ }
+ .gallery h4 {
+    font-weight: 600;
+}
+.category-card {  
+    border: none;
+  }
+   .category-card img {  
+    width: 50%;
+    height: 100px;
+    object-fit: contain;
+  }
+   .category-text { 
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+      background-color: black;
+ }
+ .footer {    
+    padding: 40px 20px;
+    border-top: 1px solid #ddd;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.footer-column {
+    flex: 1;
+    min-width: 250px;
+    padding: 25px 66px;
+} 
+ .footer-column h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+.footer-column ul li a {
+    color: #666;
+    text-decoration: none;
+}
+.footer-bottom {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+.payment-icons img {
+    width: 40px;
+    margin-right: 10px;
+}
+.kushals img {
+    width: 100px;
+}
+.footer-bottom p {
+    text-align: center;
+}
+ .footer container{
+    position: relative;
+ }
+ .social-icons { 
+    display: flex;
+}
+.social-icons i {
+    padding: 10px;
+}
+.social-icons ul {
+    display: flex;
+}
+footer-bottom {
+    position: relative;
+}
+.payment-icons {
+    position: absolute;
+    left: 1064px;
+    font-size: 28px;
+    margin: -39px;
+}
+.social-icons { 
+    display: flex;
+}
+.social-icons i {
+    padding: 10px;
+}
+.social-icons ul {
+    display: flex;
+}
+ul { 
+    text-decoration: none;
+    list-style-type: none;
+}
+.iconlinks ul {
+    display: flex;
+}
+.iconlinks {
+    position: absolute;
+    left: 30px
+}
+ul i {
+    padding: 10px;
+}
+.footer-column i {
+    position: absolute;
+    left: 990px;
+}
+.iconlinks {
+    margin-top: 17px;
+}
+
+
+
+.footer {    
+    padding: 40px 20px;
+    border-top: 1px solid #ddd;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.footer-column {
+    flex: 1;
+    min-width: 250px;
+    padding: 25px 66px;
+} 
+ .footer-column h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+.footer-column ul li a {
+    color: #666;
+    text-decoration: none;
+}
+
+.logo {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.email-form {
+    display: flex;
+    margin-top: 10px;
+}
+
+.email-form input {
+    padding: 10px;
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+}
+
+.email-form button {
+    padding: 10px 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+}
+
+
+.payment-icons img {
+    width: 40px;
+    margin-right: 10px;
+}
+.kushals img {
+    width: 100px;
+}
+.footer-bottom p {
+    text-align: center;
+}
+ .footer container{
+    position: relative;
+ }
+.icons {
+    position: absolute;
+}
+.icons i {
+    padding: 20px;
+ }
+.footer-bottom p{
+    text-align: center;
+}
+.bear {
+    display: flex;
+}
+.iconlinks ul {
+    display: flex;
+} 
+ul i {
+    padding: 10px;
+}
+footer-bottom {
+    position: relative;
+}
+.payment-icons {
+    position: absolute;
+    left: 1064px;
+    font-size: 28px;
+    margin: -39px;
+}
+.footer-container {
+    position: relative;
+}
+.iconlinks {
+    position: absolute;
+}
+.iconlinks {
+    position: absolute;
+    left: -4px;
+    margin: 20px;
+}
+.container-fluid.d-flex.justify-content-between {
+    background-color: red;
+    color: white;
+}
+ input.form-control.me-2 { 
+    width: 425px;
+    margin-left: 30px;
+} 
+.icon-links.d-flex.align-items-center {
+    position: absolute;
+    top: -2px;
+    left: 1124px;
+}
+.icon-links.d-flex.align-items-center i {
+    padding: 10px;
+}
+/* span.carousel-control-prev-icon {
+    position: absolute;
+    top: -34px;
+    right: -981px;
+}
+span.carousel-control-next-icon {
+    position: absolute;
+    top: -34px;
+    left: 115px;
+} */
+.carousel-inner img {
+    width: 103%;
+}.carousel-indicators {
+    display: none;
+  }
+
+.navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+.meta-menu {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.meta-menu .meta-info {
+    font-size: 14px;
+    color:gray;
+}
+.meta-menu i.bi-geo-alt {
+    margin-left: 10px;
+}
+.navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+    width:300px;
+    font-size: 10px;
+}
+a.dropdown-item:hover{
+    color: red;
+    text-decoration: none;
+}
+.dropdown-menu mega-area h6r{
+    color: grey;
+    
+}
+.carousel-indicators {
+    display: none !important;
+  }
+   #mega-one {
+    padding:6px 60px;
+  } 
+  .form-control.me-2 {
+    position: absolute;
+    left: 639px;
+  }
+  /* #necklacesDropdown {
+    padding: 2px 71px;
+  }
+  #earringsDropdown {
+    padding: 2px 71px;
+  }
+  #banglesDropdown {
+    padding: 2px 71px;
+  }
+  #accessoriesDropdown {
+    padding: 2px 71px;
+  }
+  #sliverDropdown {
+    padding: 2px 71px;
+  }
+  #collectionDropdown {
+    padding: 2px 141px;
+  }
+  #silverDropdown {
+    position: absolute;
+    top: -12px;
+  } */
+  /* .navbar-nav.me-auto.mb-2.mb-lg-0 {
+    padding: 2px 90px;
+    gap: 90px;
+  } */
+  
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+   @media only screen and (min-width:280px) and (max-width:479.98px){ 
+    .icon {
+        position: absolute;
+        left: 31px;
+    }
+    .footer{
+        padding: 30px 0px;
+    }
+    .footer-column i {
+        position: absolute;
+        left: 20px;
+    }
+      .payment-icons {
+        position: absolute;
+        left: 211px;
+      }
+      .payment-icons {
+        font-size: 8px;
+      }
+      .payment-icons img {
+        width: 23px;
+        margin-top: 31px;
+      }
+      .iconlinks {
+        position: absolute;
+        left: -25px;
+     }
+      ul i {
+        padding: 5px;
+      }
+      .footer-bottom p {
+        font-size: 10px;
+      }
+      .iconlinks {
+        margin-top: 40px;
+    } 
+    /* .payment-icons {
+        margin-top: -20px;
+    } */
+    .kushals img {
+        width: 20%;
+      }
+    .top-bar {
+        padding: 30px 0px;
+        width: 279px;
+        font-size: 13px;
+    }
+    
+    .carousel-control-next-icon {
+        position: absolute;
+        left: -22px;
+    }
+    input {
+        position: absolute;
+        left: 45px;
+    }
+
+    .iconlinks {
+        font-size: 8px;
+      }
+      span {
+        font-size: 8px;
+      }
+      .bi.bi-geo-alt {
+        font-size: 7px;
+      }
+      .social-icons {
+        margin-left: -41px;
+        font-size: 10px;
+      }  
+      .navbar-toggler {
+        position: absolute;
+        top: -55px;
+        left: 220px;
+      } 
+      .carousel-inner {
+        margin-top: -75px;
+      }
+      img.card-img-top {
+        margin-top: 77px;
+    }
+    .carousel-inner {
+        margin-top: -35px;
+    }
+    .prize {
+        padding: 30px 0px;
+    }
+    .kite {
+        padding: 30px 0px;
+    }
+    .section {
+        padding: 30px 0px;
+    }
+    .set {
+        padding: 30px 0px;
+    }
+    .sing {
+        padding: 30px 0px;
+    }
+    .cake {
+        padding: 30px 0px;
+    }
+    .gift {
+        padding: 30px 0px;
+    }
+    .coffe {
+        padding: 30px 0px;
+    }
+    .classic {
+        padding: 30px 0px;
+    }
+    .butter {
+        padding: 30px 0px;
+    }
+    .better{
+        padding: 30px 0px;
+    }
+    .game {
+        padding: 30px 0px;
+    }
+}
+ @media only screen and (min-width:480px) and (max-width:576px){ 
+    .geat h3 {
+        font-size: 30px;
+    }
+    .footer-column i {
+        position: absolute;
+        left: 34px;
+    }
+    .payment-icons {
+        font-size: 8px;
+      }
+      .payment-icons img {
+        width: 23px;
+        margin-top: 31px;
+      }
+      .payment-icons {
+        position: absolute;
+        left: 80px;
+        font-size: 28px;
+        margin: -39px;
+    }
+    .kushals img {
+        position: absolute;
+        left: 17px;
+        top: 3px;
+    }
+    button.navbar-toggler {
+        position: absolute;
+        left: 413px;
+        top: -55px;
+    }
+    .image-container img {
+        width: 454px;
+    }
+    .logo {
+        width: 18%;
+        margin-bottom: 20px;
+    }
+    .payment-icons {
+        position: absolute;
+        left: 390px;
+        font-size: 28px;
+        margin: -39px;
+    }
+    .iconlinks {
+        position: absolute;
+        left: -57px;
+        margin: 43px;
+    }
+    .prize {
+        padding: 30px 0px;
+    }
+    .kite {
+        padding: 30px 0px;
+    }
+    .section {
+        padding: 30px 0px;
+    }
+    .set {
+        padding: 30px 0px;
+    }
+    .sing {
+        padding: 30px 0px;
+    }
+    .cake {
+        padding: 30px 0px;
+    }
+    .gift {
+        padding: 30px 0px;
+    }
+    .coffe {
+        padding: 30px 0px;
+    }
+    .classic {
+        padding: 30px 0px;
+    }
+    .butter {
+        padding: 30px 0px;
+    }
+    .better{
+        padding: 30px 0px;
+    }
+    .game {
+        padding: 30px 0px;
+    }
+    .footer {
+        padding: 30px 0px;
+    }
+} 
+
+
+@media only screen and (min-width:576px) and (max-width:767.98px){ 
+    .prize {
+        padding: 30px 0px;
+    }
+    .kite {
+        padding: 30px 0px;
+    }
+    .section {
+        padding: 30px 0px;
+    }
+    .set {
+        padding: 30px 0px;
+    }
+    .sing {
+        padding: 30px 0px;
+    }
+    .cake {
+        padding: 30px 0px;
+    }
+    .gift {
+        padding: 30px 0px;
+    }
+    .coffe {
+        padding: 30px 0px;
+    }
+    .classic {
+        padding: 30px 0px;
+    }
+    .butter {
+        padding: 30px 0px;
+    }
+    .better{
+        padding: 30px 0px;
+    }
+    .game {
+        padding: 30px 0px;
+    }
+    .gallery {
+        padding: 30px 0px;
+    }
+    .footer {
+        padding: 30px 0px;
+    }
+    
+   
+    .top-bar {
+        width: 757px;
+    }
+    button.navbar-toggler {
+        margin-left: 262px;
+        font-size: 20px;
+    }
+    .carousel-inner {
+        width: 135% !important;
+    }
+    .image-container img {
+        width: 273px;
+    }
+    .mani img {
+        width: 138%;
+        padding: 5px;
+        border-radius: 30px;
+    }
+    .mani p {
+        font-size: 24px;
+    }
+    .para img {
+        width: 139%;
+    }
+    .fit img {
+        width: 139%;
+    }
+    .dancer h3 {
+        font-size: 42px;
+        text-align: center;
+    }
+    .image-container img {
+        width: 751px;
+    }
+    .rupee p {
+        font-size: 20px;
+    }
+    .tea img {
+        width: 139%;
+    }
+    .drink img {
+        width: 139%;
+    }
+    .classic h2 {
+        font-size: 30px;
+    }
+    .milk img {
+        width: 139%;
+    }
+    .gallery img {
+        width: 139%;
+        height: 186px;
+    }
+    .gallery p {
+        text-align: justify;
+        font-size: 20px;
+        margin-right: -190px;
+    }
+    .footer-bottom {
+        border-top: 1px solid #ddd;
+        padding-top: 20px;
+        font-size: 14px;
+        color: #666;
+        width: 776px;
+    }
+    .payment-icons {
+        position: absolute;
+        left: 539px;
+    }
+}
+ 
+
+@media only screen and (min-width:992px) and (max-width:1199.98px){ 
+    .prize {
+        padding: 30px 0px;
+    }
+    .kite {
+        padding: 30px 0px;
+    }
+    .section {
+        padding: 30px 0px;
+    }
+    .set {
+        padding: 30px 0px;
+    }
+    .sing {
+        padding: 30px 0px;
+    }
+    .cake {
+        padding: 30px 0px;
+    }
+    .gift {
+        padding: 30px 0px;
+    }
+    .coffe {
+        padding: 30px 0px;
+    }
+    .classic {
+        padding: 30px 0px;
+    }
+    .butter {
+        padding: 30px 0px;
+    }
+    .better{
+        padding: 30px 0px;
+    }
+    .game {
+        padding: 30px 0px;
+    }
+    .gallery {
+        padding: 30px 0px;
+    }
+    .footer {
+        padding: 30px 0px;
+    }
+    .payment-icons {
+        position: absolute;
+        left: 453px;
+    }
+    button.navbar-toggler {
+        margin-left: 109px;
+    }
+    .carousel-inner {
+        width: 128% !important;
+    }
+    .footer-column i {
+        position: absolute;
+        left: 29px;
+}
