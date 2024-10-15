@@ -396,53 +396,6 @@ a.dropdown-item:hover{
     position: absolute;
     left: 639px;
   }
-  /* #necklacesDropdown {
-    padding: 2px 71px;
-  }
-  #earringsDropdown {
-    padding: 2px 71px;
-  }
-  #banglesDropdown {
-    padding: 2px 71px;
-  }
-  #accessoriesDropdown {
-    padding: 2px 71px;
-  }
-  #sliverDropdown {
-    padding: 2px 71px;
-  }
-  #collectionDropdown {
-    padding: 2px 141px;
-  }
-  #silverDropdown {
-    position: absolute;
-    top: -12px;
-  } */
-  /* .navbar-nav.me-auto.mb-2.mb-lg-0 {
-    padding: 2px 90px;
-    gap: 90px;
-  } */
-  
-
-
-
-
-
-
-
-
-  
- 
-
-
-
-
-
-
-
-
-
-
 
    @media only screen and (min-width:280px) and (max-width:479.98px){ 
     .icon {
@@ -833,7 +786,7 @@ a.dropdown-item:hover{
 }
  
 
-@media only screen and (min-width:992px) and (max-width:1199.98px){ 
+@media only screen and (min-width:992px) and (max-width:1199.98px){
     .prize {
         padding: 30px 0px;
     }
@@ -889,4 +842,5 @@ a.dropdown-item:hover{
     .footer-column i {
         position: absolute;
         left: 29px;
+    }
 }
