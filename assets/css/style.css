@@ -396,6 +396,15 @@ a.dropdown-item:hover{
     position: absolute;
     left: 639px;
   }
+  .image-container {
+    padding: 60px 0px;
+  }
+  .milk {
+    padding: 60px 0px;
+  }
+  .gallery {
+    padding: 60px 0px;
+  }
 
    @media only screen and (min-width:280px) and (max-width:479.98px){ 
     .icon {
@@ -517,6 +526,26 @@ a.dropdown-item:hover{
     .game {
         padding: 30px 0px;
     }
+    .para img {
+        width: 100%;
+        padding: 10px;
+    }
+    .fit {
+        width: 100%;
+        padding: 10px;
+      }
+    .tea {
+      width: 100%;
+      padding: 10px;
+    }
+    .milk {
+        width: 100%;
+        padding: 10px;
+      }
+      .drink {
+        width: 100%;
+        padding: 10px;
+    }
 }
 @media only screen and (min-width:320px) and (max-width:480px){ 
     .top-bar{
@@ -575,6 +604,26 @@ a.dropdown-item:hover{
     }
     .footer {
         padding: 30px 0px;
+    }
+    .para img {
+        width: 100%;
+        padding: 10px;
+    }
+    .fit {
+        width: 100%;
+        padding: 10px;
+      }
+    .tea {
+      width: 100%;
+      padding: 10px;
+    }
+    .milk {
+        width: 100%;
+        padding: 10px;
+    }
+    .drink {
+      width: 100%;
+      padding: 10px;
     }
 }
     
@@ -669,6 +718,26 @@ a.dropdown-item:hover{
     .top-bar {
         width: 480px;
         font-size: 11px;
+    }
+    .para img {
+        width: 100%;
+        padding: 10px;
+    }
+    .fit {
+        width: 100%;
+        padding: 10px;
+      }
+    .tea {
+       width: 100%;
+       padding: 10px;
+    }
+    .milk {
+        width: 100%;
+        padding: 10px;
+      }
+      .drink {
+        width: 100%;
+        padding: 10px;
     }
 } 
 
@@ -787,6 +856,22 @@ a.dropdown-item:hover{
         position: absolute;
         left: 539px;
     }
+    .fit {
+        width: 100%;
+        padding: 10px;
+      }
+    .tea {
+      width: 100%;
+      padding: 10px;
+    }
+    .milk {
+        width: 100%;
+        padding: 10px;
+      }
+      .drink {
+        width: 100%;
+        padding: 10px;
+    }
 }
  
 
@@ -846,5 +931,25 @@ a.dropdown-item:hover{
     .footer-column i {
         position: absolute;
         left: 29px;
+    }
+    .para img {
+        width: 100%;
+        padding: 10px;
+    }
+    .fit {
+        width: 100%;
+        padding: 10px;
+      }
+    .tea {
+      width: 100%;
+      padding: 10px;
+    }
+    .milk {
+        width: 100%;
+        padding: 10px;
+      }
+      .drink {
+        width: 100%;
+        padding: 10px;
     }
 }
